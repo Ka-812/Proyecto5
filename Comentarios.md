@@ -1,0 +1,18 @@
+---
+
+## Universidad de Costa Rica
+### Escuela de Ingeniería Eléctrica
+#### IE0405 - Modelos Probabilísticos de Señales y Sistemas
+
+Segundo semestre del 2020
+
+---
+
+* Estudiante: **Katherine Chavarría Nájera**
+* Carné: **B41841**
+* Grupo: **1**
+
+
+# `P5` - Análisis
+
+
